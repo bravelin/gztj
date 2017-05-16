@@ -1,0 +1,23 @@
+{
+  "dist/article.js": "dist/article.js?v=942a3f056e",
+  "dist/article.list.js": "dist/article.list.js?v=74ce14e09e",
+  "dist/consult.js": "dist/consult.js?v=2924d2b028",
+  "dist/economicIndex.js": "dist/economicIndex.js?v=1cf3184df5",
+  "dist/index.js": "dist/index.js?v=983804383b",
+  "dist/search.js": "dist/search.js?v=2e4e07eff0",
+  "dist/subject.js": "dist/subject.js?v=a55131c030",
+  "public/article.js": "public/article.js?v=4dbea94309",
+  "public/article.list.js": "public/article.list.js?v=b50e260c82",
+  "public/common.js": "public/common.js?v=8cc9f21e4c",
+  "public/consult.js": "public/consult.js?v=32cab18443",
+  "public/economicIndex.js": "public/economicIndex.js?v=992a76cfe4",
+  "public/index.js": "public/index.js?v=d3fb3d9e63",
+  "public/search.js": "public/search.js?v=94a548632a",
+  "public/subject.js": "public/subject.js?v=b1507e28b5",
+  "tools/chart/bar.js": "tools/chart/bar.js?v=e202d6821d",
+  "tools/chart/line.js": "tools/chart/line.js?v=74022c4279",
+  "tools/css3-mediaqueries.js": "tools/css3-mediaqueries.js?v=1f1ad7e9ba",
+  "tools/echarts.js": "tools/echarts.js?v=253e461091",
+  "tools/idangerous.swiper.min.js": "tools/idangerous.swiper.min.js?v=52fa42e547",
+  "tools/jquery.min.js": "tools/jquery.min.js?v=679bdc8d5f"
+}
